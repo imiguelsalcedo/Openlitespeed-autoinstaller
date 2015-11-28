@@ -1,5 +1,6 @@
 #!/bin/bash
 # -*- ENCODING: UTF-8 -*-
+# Miguel Salcedo <imiguelsalcedo at hotmail dot com>
 
 # Update
 echo -e "\n --------In five seconds the system upgrade will start--------\n"
